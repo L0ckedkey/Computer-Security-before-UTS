@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', function () {
     const authenticated = localStorage.getItem('authenticated');
     if (!authenticated || authenticated !== 'true') {
       // Redirect to the login page if not authenticated
-      window.location.href = 'index.html';
+      window.location.href = './../../index.html';
     }
   });
   

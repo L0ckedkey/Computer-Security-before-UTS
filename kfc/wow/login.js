@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', function () {
         // Store authentication status
         localStorage.setItem('authenticated', 'true');
         // Redirect to dashboard
-        window.location.href = 'dashboard.html';
+        window.location.href = './kfc/html/dashboard.html';
       } 
     });
   });

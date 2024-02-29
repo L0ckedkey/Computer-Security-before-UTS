@@ -1,0 +1,8 @@
+LOLI CUSTOM ORDER FOR 2024
+
+[date] [name] [price] [paid status] [stock status]
+
+[20-12-2024] [Asep Bali]     [19000000] [paid]   [ready stock]
+[17-07-2024] [Ilham Jakarta] [8000000]  [paid]   [pre-order]
+[4-05-2024]  [Fajar Bekasi]  [8900000]  [paid]   [waiting stock]
+[5-5-2024]   [Abdul Cirebon] [1900000]  [unpaid] [waiting stock]
